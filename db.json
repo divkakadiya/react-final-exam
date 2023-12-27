@@ -1,0 +1,39 @@
+{
+  "posts": [
+    {
+      "product_name": "mobile",
+      "des": "OPPO Mobile",
+      "price": 13000,
+      "avability": true,
+      "id": 1
+    },
+    {
+      "product_name": "mobile",
+      "des": "OPPO Mobile",
+      "price": 13000,
+      "avability": true,
+      "id": 5
+    },
+    {
+      "product_name": "basket",
+      "des": "basket",
+      "price": 13000,
+      "avability": false,
+      "id": 10
+    },
+    {
+      "product_name": "vivo mobile",
+      "des": "mobile",
+      "price": 13000,
+      "avability": false,
+      "id": 11
+    },
+    {
+      "product_name": "vivo mobile",
+      "des": "mobile",
+      "price": 13000,
+      "avability": true,
+      "id": 12
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+nav {
+    background: grey;
+}
+
+nav .user {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background: #fff;
+}
+
+.all {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin-top: 1vw;
+}
+
+.card {
+    justify-content: center;
+    width: 300px;
+    height: 300px;
+    align-items: center;
+    margin-bottom: 1vw;
+    border: 1px solid black;
+}
+
+a {
+    border-radius: 8px;
+    margin-top: 1vw;
+    text-align: center;
+    text-decoration: none;
+    margin: 0 auto;
+    color: #fff;
+    border: 1px solid transparent;
+    padding: 1vw;
+    font-size: 1em;
+    font-weight: 500;
+    font-family: inherit;
+    background-color: gray;
+    cursor: pointer;
+}
+
+.all p {
+    font-size: 16px;
+    font-weight: 500;
+}
